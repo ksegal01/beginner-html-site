@@ -5,9 +5,15 @@ p {
 }
 
 p, li, h1 {
-	color: pink;
+	color: teal;
 }
 
 html {
-	background color: #00539F;
+	background-color: #00539F;
+}
+
+body{
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FF9500;
 }
