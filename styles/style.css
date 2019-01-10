@@ -1,7 +1,6 @@
 p {
 	color: red;
 	width: 500px;
-	border: 0.5px dashed black;
 }
 
 p, li, h1 {
@@ -16,4 +15,17 @@ body{
 	width: 600px;
 	margin: 0 auto;
 	background-color: #FF9500;
+}
+
+.quote{
+	border: 1px dashed black;
+}
+
+#mainquote {
+	color:green;
+	font-size: 30px;
+}
+
+.importanttext{
+	display: inline-block;
 }
