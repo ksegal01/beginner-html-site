@@ -1,7 +1,7 @@
-p, ul {
+p {
 	color: red;
 	width: 500px;
-	border: 1px solid black;
+	border: 0.5px dashed black;
 }
 
 p, li, h1 {
